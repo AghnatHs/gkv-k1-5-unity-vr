@@ -20,6 +20,7 @@ Open your terminal (Git Bash / VS Code / CMD) and run:
 ```bash
 https://github.com/AghnatHs/gkv-k1-5-unity-vr.git
 cd gkv-k1-5-unity-vr
+```
 
 ### 2. Open in Unity Hub
 
