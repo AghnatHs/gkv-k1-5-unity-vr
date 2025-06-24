@@ -1,0 +1,71 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vscode/
+
+# Crash reports
+sysinfo.txt
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio / MonoDevelop
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+*.sln.dotSettings
+
+# Unity Collab (if used)
+.collab/
+
+# PlasticSCM
+.plastic/
+*.plastic*
+
+# Build artifacts
+*.apk
+*.aab
+*.exe
+*.app
+*.zip
+
+# Auto-generated .meta files are important — DO NOT IGNORE THEM
+# Also, don't ignore the Assets/ or ProjectSettings/ folders!
+# They're needed for your actual game to work.
+
+# Optional: if using Addressables
+Assets/AddressableAssetsData/AssetSettings.asset
+Assets/AddressableAssetsData/*.bin
+
+# Optional: ignore test results
+TestResults/
+
+# Optional: ignore local config for CI/CD
+.env
+.env.*
+*.local
+
+# Optional Unity cache
+unity-cache/
